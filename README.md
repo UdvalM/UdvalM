@@ -16,6 +16,6 @@ Welcome to my GitHub profile! I'm a student at Wakefield High School and Arlingt
 ![Udval's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexhamill&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=alexhamill&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=udvalm&theme=onedark)
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me.

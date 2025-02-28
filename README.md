@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hai there :3
+📫 How to reach me:  
+- gmail: seikolynxgmail.com
 
 <!--
 **UdvalM/UdvalM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
